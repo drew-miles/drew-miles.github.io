@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm Drew Miles, a Research Assistant Professor at the California Institute of Technology. 
+I'm Drew Miles, a Research Assistant Professor at the California Institute of Technology. My research interests include developing technology and instruments for astronomy and, in particular, enabling observations of extended sources of UV and X-ray emission in our Universe: supernova remnants, the UV and X-ray backgrounds, and the intergalctic and circumgalactic medium (IGM/CGM). 
 
 A data-driven personal website
 ======
