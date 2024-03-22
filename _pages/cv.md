@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a relatively up-to-date copy of my CV here. 
+You can download a relatively up-to-date copy of my CV [here](drew-miles.github.io/files/miles_cv_full_2023oct.pdf). 
 
 Education
 ======
