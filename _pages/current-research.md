@@ -7,7 +7,7 @@ author_profile: true
 
 FIREBall: The Faint Intergalactic-medium Redshifted Emission Balloon
 ------
-FIREBall (now in an iteration known as FIREBall-2) is a suborbital balloon project that seeks to detect and map the emission from the circumgalactic medium (CGM) of low-redshift galaxies (z < 1). 
+FIREBall (now in an iteration known as FIREBall-2) is a suborbital balloon project that seeks to detect and map the emission from the circumgalactic medium (CGM) of low-redshift galaxies (z < 1). The project is led here at Caltech and includes collaborators from Jet Propulsion Laboratory, the University of Arizona, the University of Iowa, Columbia University, and several institutes in France: Observatoire de Paris, Laboratory d'Astrophyique de Marseille (LAM), and the Center National d'Etudes Spatiales (CNES, the French Space Agency). FIREBall is currently working toward a flight planned for September 2025 from Fort Sumner, New Mexico, during which we aim to make new observations of the CGM in the UV!
 
 tREXS: The Rockets for Extended-source X-ray Spectroscopy
 ------
