@@ -4,7 +4,7 @@ main:
     url: /research/
 
   - title: "Past Projects"
-    url: /portfolio/
+    url: /past-projects/
     
   - title: "Publications"
     url: /publications/
