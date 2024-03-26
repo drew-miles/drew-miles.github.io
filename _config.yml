@@ -247,10 +247,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _past-projects
   - scope:
       path: ""
-      type: past-research
+      type: past-projects
     values:
       layout: single
       author_profile: true
