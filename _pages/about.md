@@ -11,7 +11,7 @@ I'm Drew Miles, a Research Assistant Professor at the California Institute of Te
 
 You can also have a look at some of the fun activities I engage in within our community on the [outreach page](http://drew-miles.github.io/outreach/), 
 
-After getting my PhD from Penn State University in December of 2021, I moved to Caltech as a postdoc and became a Research Assistant Professor in 2024. You can download a relatively up-to-date copy of my CV [here](drew-miles.github.io/files/miles_cv_full_2023oct.pdf).
+After getting my PhD from Penn State University in December of 2021, I joined the Space Astrophysics Laboratory at Caltech as a postdoc and became a Research Assistant Professor in 2024. You can download a relatively up-to-date copy of my CV [here](drew-miles.github.io/files/miles_cv_full_2023oct.pdf).
 
 
 
