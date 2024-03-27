@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Current Research"
+  - title: "Current Projects"
     url: /current-research/
 
   - title: "Past Projects"
     url: /past-projects/
-    
-  - title: "Publications"
-    url: /publications/
 
   - title: "Outreach & Service"
     url: /outreach/
+    
+  - title: "Publications"
+    url: /publications/
 
   - title: "CV"
     url: /cv/
