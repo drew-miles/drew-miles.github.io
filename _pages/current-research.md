@@ -17,7 +17,7 @@ UV and X-ray diffraction gratings
 ------
 I also work to fabricate and performance-verify diffraction gratings for various UV and X-ray instruments. This work originated at the [Penn State University Nanofabrication Laboratory](https://www.mri.psu.edu/nanofabrication-lab) and also uses [Caltech's Kavli Nanoscience Institute](https://kni.caltech.edu/) to manufacture high-performance reflection gratings. This cutting-edge technology development research is currently funded with two active NASA grants (and hopefully more on the way!) and combines astronomical instrumentation, nanofabrication, and materials science to enable current and future grating-based spectroscopy. In addition to suborbital instruments such as tREXS, gratings fabricated in these projects are developed for future suborbital missions, explorer-class mission concepts, and flagship-class missions such as the Habitable Worlds Observatory. 
 
-![](/images/fig_sem_edge_cropped.pdf){:width="50%" .align-center}
+![](/images/sem-edge-on.pdf){:width="50%" .align-center}
 
 Ground-based observations of the CGM
 ------
