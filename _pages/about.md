@@ -11,4 +11,4 @@ I'm Drew Miles, a Research Assistant Professor at the California Institute of Te
 
 My research interests include developing technology and instruments for astronomy and, in particular, enabling observations of extended sources of UV and X-ray emission in our Universe: supernova remnants, the UV and X-ray backgrounds, and the intergalctic and circumgalactic medium (IGM/CGM). You can find more information about my active research, including some ongoing suborbital projects and exciting future missions, on the [current research page](https://drew-miles.github.io/current-research/), and an overview of some previous projects on in [past research](http://drew-miles.github.io/past-projects/). 
 
-You can also have a look at some of the fun activities I engage in within our community on the [outreach page](http://drew-miles.github.io/outreach/), 
+You can also have a look at some of the fun activities I engage in within our community on the [outreach page](http://drew-miles.github.io/outreach/).
